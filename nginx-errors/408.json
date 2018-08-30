@@ -1,1 +1,1 @@
-{"message":"Request Timeout: indicates that the server did not receive a complete request message within the time that it was prepared to wait.","link":"https://tools.ietf.org/html/rfc7231#section-6.5.7","code":"408"}
+{"Status": "error", "Result": [{"Message": "Request Timeout: indicates that the server did not receive a complete request message within the time that it was prepared to wait.", "Code": "408", "Alert": false, "Key": "", "Extra": []}]}

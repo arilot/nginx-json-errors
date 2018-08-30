@@ -1,1 +1,1 @@
-{"message":"Network Authentication Required: indicates that the client needs to authenticate to gain network access.","link":"https://tools.ietf.org/html/rfc6585#section-6","code":"511"}
+{"Status": "error", "Result": [{"Message": "Network Authentication Required: indicates that the client needs to authenticate to gain network access.", "Code": "511", "Alert": false, "Key": "", "Extra": []}]}

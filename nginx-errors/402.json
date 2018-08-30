@@ -1,1 +1,1 @@
-{"message":"Payment Required: reserved","link":"https://tools.ietf.org/html/rfc7231#section-6.5.2","code":"402"}
+{"Status": "error", "Result": [{"Message": "Payment Required: reserved", "Code": "402", "Alert": false, "Key": "", "Extra": []}]}

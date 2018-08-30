@@ -1,1 +1,1 @@
-{"message":"Not Implemented: indicates that the server does not support the functionality required to fulfill the request.","link":"https://tools.ietf.org/html/rfc7231#section-6.6.2","code":"501"}
+{"Status": "error", "Result": [{"Message": "Not Implemented: indicates that the server does not support the functionality required to fulfill the request.", "Code": "501", "Alert": false, "Key": "", "Extra": []}]}
